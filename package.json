@@ -10,7 +10,7 @@
   ],
   "license": "GPL-3.0",
   "dependencies": {
-    "protobufjs": "6.8.8"
+    "protobufjs": "6.11.1"
   },
   "devDependencies": {
     "eslint": "6.0.1",
